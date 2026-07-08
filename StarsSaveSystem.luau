@@ -15,7 +15,7 @@
 
 ⚠️ - Do not edit any parts of this script, or you will be going against the copyright policy.
 
-🗀 - Place this script in ServerScriptService if you are not planning on using Luau in-memory with the client, Otherwise 
+🗀 - Place this script in ServerScriptService if you are not planning on using Luau in-memory with the client, Otherwise place in ReplicatedStorage 
 
 ⚠️ - If storing sensitive information in Luau in-memory, keep it in ServerScriptService (or another server-only location), 
 	The client cannot access it directly.
